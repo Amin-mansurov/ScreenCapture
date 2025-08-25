@@ -1,0 +1,16 @@
+# CMake build
+build/
+
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.out
+*.exe
+
+# Logs
+*.log
+
+# Other temporary files
+*~
