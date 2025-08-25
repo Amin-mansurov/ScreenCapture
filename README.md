@@ -13,7 +13,7 @@ Supports FPS counter overlay and configurable resolution from command-line argum
 ## Requirements
 - Linux with X11
 - CMake >= 3.5
-- OpenCV (tested on 4.x)
+- OpenCV (tested on 4.2)
 - X11 development libraries
 
 Install dependencies on Ubuntu/Debian:
